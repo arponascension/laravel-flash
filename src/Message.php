@@ -2,7 +2,7 @@
 
 namespace Spatie\Flash;
 
-class Message
+class Message ddd
 {
     public string $message;
 
